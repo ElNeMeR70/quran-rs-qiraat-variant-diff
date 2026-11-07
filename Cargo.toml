@@ -1,0 +1,10 @@
+[package]
+name = "quran-rs-qiraat-variant-diff"
+version = "1.0.0"
+edition = "2021"
+description = "Ten Canonical Qira'at Phonetic & Orthographic Diff Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "quran_rs_qiraat_variant_diff"
+path = "main.rs"
